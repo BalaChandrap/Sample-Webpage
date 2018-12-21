@@ -355,7 +355,7 @@ a:focus{
 	background: #fff;
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	height: auto;
 	padding: 0 10px;
 	height: 40px;
